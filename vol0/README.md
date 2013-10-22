@@ -27,5 +27,5 @@
 
 ## Issues
 
-本イベントに対するフィードバックはIssueからも受け付けています。
+本イベントに対するフィードバックは[Issueからも受け付けています](https://github.com/html5j-english/event/issues/1)。
 

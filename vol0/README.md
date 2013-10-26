@@ -4,6 +4,7 @@
 
 募集開始: 2013年10月23日から  
 募集人数: 25名
+募集ページ: <http://atnd.org/events/44850>
 
 ## 開催日
 
@@ -28,4 +29,3 @@
 ## Issues
 
 本イベントに対するフィードバックは[Issueからも受け付けています](https://github.com/html5j-english/event/issues/1)。
-

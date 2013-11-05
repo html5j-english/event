@@ -30,7 +30,7 @@
 
 スタッフ: @studiomohawk, @shumpei, @myakura, @hiloki
 
-参加者: @pikotea, @mamoida, @yogurito, @kuu, @31o3, @Layzie, @ginpei, @restard, @ogaoga, @1000ch, @albatrosary, @suzukima, @ktknest, @pocotan001, @yaboo777, @edom18, @itakurara, @fuyuko-i
+参加者: @pikotea, @mamoida, @yogurito, @kuu, @31o3, @Layzie, @ginpei, @restard, @ogaoga, @1000ch, @albatrosary, @KoichiHaradaEndor, @MSakamaki, @suzukima, @ktknest, @pocotan001, @yaboo777, @edom18, @itakurara, @fuyuko-i
 
 ## チーム/成果物
 
@@ -50,7 +50,7 @@ Pull Request: <https://github.com/html5j-english/webplatform/pull/3>
 
 ### チーム えんぷら部
 
-メンバー: @albatrosary  (TODO: 他メンバのアカウント)  
+メンバー: @albatrosary, @KoichiHaradaEndor, @MSakamaki (TODO: 他メンバのアカウント)  
 翻訳したドキュメント: [Your first look at JavaScript](http://docs.webplatform.org/wiki/tutorials/your_first_look_at_javascript)  
 Pull Request: <https://github.com/html5j-english/webplatform/pull/4>  
 進捗: TODO: <https://github.com/html5j-english/event/issues/2#issuecomment-27737071>

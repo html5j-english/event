@@ -39,7 +39,7 @@
 メンバー: @pikotea, @mamoida, @yogurito, @kuu, @31o3  
 翻訳したドキュメント: [Box Model](http://docs.webplatform.org/wiki/tutorials/box_model)  
 Pull Request: <https://github.com/html5j-english/webplatform/pull/2>  
-進捗: TODO: <https://github.com/html5j-english/event/issues/2#issuecomment-27737071>
+進捗: 翻訳/100% 監訳/100% (by @studiomohawk)
 
 ### チーム 平木さん
 

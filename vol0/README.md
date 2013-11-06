@@ -53,7 +53,7 @@ Pull Request: <https://github.com/html5j-english/webplatform/pull/3>
 メンバー: @albatrosary, @KoichiHaradaEndor, @MSakamaki (TODO: 他メンバのアカウント)  
 翻訳したドキュメント: [Your first look at JavaScript](http://docs.webplatform.org/wiki/tutorials/your_first_look_at_javascript)  
 Pull Request: <https://github.com/html5j-english/webplatform/pull/4>  
-進捗: TODO: <https://github.com/html5j-english/event/issues/2#issuecomment-27737071>
+進捗: 翻訳/70% 監訳/100% (of 70%) (by @studiomohawk)
 
 ### チーム 白石さん
 

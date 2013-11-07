@@ -67,7 +67,7 @@ Pull Request: <https://github.com/html5j-english/webplatform/pull/5>
 メンバー: @hiloki, @yaboo777, @edom18, @itakurara, @fuyuko-i  
 翻訳したドキュメント: [DOCTYPES and markup styles](http://docs.webplatform.org/wiki/guides/doctypes_and_markup_styles)  
 Pull Request: <https://github.com/html5j-english/webplatform/pull/6>  
-進捗: TODO: <https://github.com/html5j-english/event/issues/2#issuecomment-27737071>
+進捗: 翻訳/50% 監訳/100% (of 50%) (by @studiomohawk)
 
 ## Issues
 
